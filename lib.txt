@@ -1,0 +1,7 @@
+lib.txt
+Created Mon Aug 22 14:57:28 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Libraries
+

@@ -12,5 +12,5 @@ git-dev-lib
 
 Files  
 =====  
-lib.txt  
+[lib.txt](https://github.com/marcilr/git-dev-lib/blob/master/lib.txt)
   Libraries  

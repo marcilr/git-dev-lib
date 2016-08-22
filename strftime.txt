@@ -1,0 +1,26 @@
+strftime.txt
+Created Mon Aug 22 15:01:37 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+strftime - format date and time
+
+
+A great looking library with darn near everything.
+
+I particularly like %j for the day of the year a decimal 
+number (range 001 to 366).
+
+SYNOPSIS         
+  #include <time.h>
+
+  size_t strftime(char *s, size_t max, const char *format,
+                  const struct tm *tm);
+
+
+Links
+=====
+strftime - format date and time
+STRFTIME(3)
+Linux Programmer's Manual
+STRFTIME(3)
